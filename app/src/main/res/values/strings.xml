@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BntActividades</string>
+    <string name="text">Gestión de Proyectos</string>
+
+    <string name="str_btnbuscar">Buscar</string>
+    <string name="str_btnregistrar">Registrar Relevamientos</string>
+    <string name="str_btnlistar">Listar Relevamientos</string>
+    <string name="str_btnexportar">Exportar</string>
+
+    <string name="str_nombre">Nombre Relevamiento</string>
+    <string name="str_tipoPoste">Tipo Poste</string>
+    <string name="str_tipoHerraje">Tipo Herraje</string>
+    <string name="str_tipoObstruccion">Tipo Obstruccion</string>
+    <string name="str_tipoInfraestructura">Tipo Infraestructura</string>
+    <string name="str_latitud">Latitud</string>
+    <string name="str_altitud">Altitud</string>
+    <string name="str_longitud">Longitud</string>
+    <string name="str_observaciones">Observaciones</string>
+
+    <string name="str_bienvenido">Bienvenidos</string>
+    <string name="str_descripcion_imagen">Todos</string>
+    <string name="str_listarRelevamientos">Listado de Relevamientos</string>
+    <string name="str_gestionRelevamientos">Gestion de Relevamiento</string>
+    <string name="str_buscarRelevamiento">Buscar por nombre</string>
+    <string name="str_digiteNombre">Ingrese nombre</string>
+
+    <string name="str_btnguardar">Guardar</string>
+    <string name="str_btnborrar">Borrar</string>
+    <string name="str_btnactualizar">Actualizar </string>
+
+
+
+</resources>
